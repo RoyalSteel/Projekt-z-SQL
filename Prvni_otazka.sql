@@ -2,7 +2,7 @@
  * 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?
  */
 
--- Budeme-li porovnávat trend mezd (růst/pokles/beze změny) mezi průmeřnou roční mzdou v jednotlivých letech a pro každé odvětví.
+-- Budeme-li porovnávat trend mezd (růst/pokles/beze změny) mezi průměrnou roční mzdou v jednotlivých letech a pro každé odvětví.
 -- Tak dojdeme k zjištění, že v některých odvětvích došlo i k meziročnímu poklesu.
 
 WITH TrendMezd AS (
