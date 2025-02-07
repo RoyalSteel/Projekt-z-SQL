@@ -1,4 +1,7 @@
 # Projekt z SQL
+
+**!!! Upozornění projekt byl vypracován v DBeaver Version 24.3.4.202502021521 + PostgreSQL !!!**
+
 Tento repozitář obsahuje soubory, které odpovídají na klíčové výzkumné otázky pro Engeto Datovou akademii.
 <br>Odpovědi na jednotlivé otázky jsou v [Průvodní listina k Projektu z SQL.pdf](https://github.com/RoyalSteel/Projekt-z-SQL/blob/main/Pr%C5%AFvodn%C3%AD%20listina%20k%20Projektu%20z%20SQL.pdf).
 <br>Pro vytvoření tabulek z kterých čerpají jednotlivé odpovědi na otázky slouží [t_petr_kral_project_SQL_primary_final.sql](https://github.com/RoyalSteel/Projekt-z-SQL/blob/main/t_petr_kral_project_SQL_primary_final.sql) a [t_petr_kral_project_SQL_secondary_final.sql](https://github.com/RoyalSteel/Projekt-z-SQL/blob/main/t_petr_kral_project_SQL_secondary_final.sql).
